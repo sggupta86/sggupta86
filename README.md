@@ -8,7 +8,7 @@
 <img align="left" width="400" src="https://myhometutors.gumlet.io/wp-content/uploads/2021/01/mht-image-1.svg?compress=true&quality=80&w=576&dpr=1.0">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajgupta86" alt="surajgupta86" /></a> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
